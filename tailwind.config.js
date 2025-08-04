@@ -23,7 +23,7 @@ module.exports = {
         },
       },
       animation: {
-        marquee: 'marquee 40s linear infinite',
+        marquee: 'marquee 20s linear infinite',
         fadeIn: 'fadeIn 1s ease-out forwards',
         letterFadeIn: 'letterFadeIn 0.5s ease-out forwards',
       },

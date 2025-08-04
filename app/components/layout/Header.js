@@ -58,25 +58,7 @@ export default function Header() {
               <FaGithub className="hover:text-gray-400 transition" />
             </a>
           </div>{" "}
-          <div className="hidden md:flex space-x-4 text-2xl">
-            <a
-              href="https://www.linkedin.com/in/veeramanikandan-l-7164b5144/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaLinkedin className="hover:text-blue-400 transition" />
-            </a>
-            <a href="mailto:apkveeraa@gmail.com">
-              <HiOutlineMail className="hover:text-red-400 transition" />
-            </a>
-            <a
-              href="https://github.com/veeramadhan"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaGithub className="hover:text-gray-400 transition" />
-            </a>
-          </div>
+        
           {/* Mobile menu button */}
           <div className="md:hidden z-50" onClick={() => setNavOpen(!navOpen)}>
             <div className="w-6 h-1 bg-white my-1"></div>

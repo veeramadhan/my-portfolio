@@ -27,7 +27,7 @@ export default function Hero() {
       </div>
 
       {/* Right: Text Content */}
-      <div className="max-w-2xl text-center md:text-left space-y-4 z-10">
+      <div className="max-w-2xl text-center md:text-left  space-y-4 z-10 bg-transparent">
         <h2 className="text-xl md:text-4xl font-light text-gray-300">
           Hi, I’m{" "}
           <span className="text-white font-semibold">Veeramanikandan</span>.

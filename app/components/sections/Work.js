@@ -170,10 +170,7 @@ const Work = () => (
             Software Developer
           </h2>
           <p className="text-white text-sm leading-relaxed">
-            Developed a responsive landing page with Next.js and Tailwind CSS,
-            and built an admin dashboard using React.js, FastAPI, and MongoDB
-            for BilliMD to streamline healthcare credentialing and provider
-            management
+            I contributed to building a healthcare credentialing and provider management system for BilliMD. I developed a responsive landing page using Next.js and Tailwind CSS, and an admin dashboard using React.js, FastAPI, and MongoDB. My responsibilities included implementing role-based access control, ensuring cross-device compatibility, integrating a secure and scalable backend, and collaborating in agile sprints to deliver high-quality features and bug fixes. This project significantly improved the client’s operational workflow through clean UI and efficient data management.
           </p>
           <ul className="list-disc pl-5 text-white text-sm space-y-2">
             <li>Ensuring cross-device compatibility and modern UI/UX.</li>
@@ -192,6 +189,9 @@ const Work = () => (
             <li>
               Collaborated with cross-functional teams to implement features,
               resolve bugs, and improve application reliability.
+            </li>
+              <li>
+              Implemented smooth UI animations using Framer Motion to enhance user interaction.
             </li>
             <li>
               Participated in agile development cycles, contributing to sprint

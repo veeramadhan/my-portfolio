@@ -14,9 +14,8 @@ export default function Home() {
       <Services/>
       <Resume/>
       <Skills/>
-      
-       <Contact/>
-        <Work/>
+      <Contact/>
+      <Work/> 
     </>
   );
 }
